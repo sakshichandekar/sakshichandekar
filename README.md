@@ -2,7 +2,6 @@
 
 - I’m currently working on `Cybersecurity-Fundamentals-Series`: beginner-friendly repo on core concepts like Linux, networking, ports, Nmap, and the CIA triad.
 - I’m looking to collaborate on hacking guides and projects for beginners.
-- I’m looking for help with writing better docs and learning real-world security tools.
 - I’m currently learning Bash Scripting, Burp Suite, Metasploit, and OWASP Top 10.
 - Ask me how I’m learning to think like a hacker — ethically, of course.
 - Fun fact: I love cats 🐱, K-dramas 🎬, and making handmade stuff 🎨!
