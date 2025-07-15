@@ -49,7 +49,7 @@
 ## 📚 Currently Building
 
 - `Cybersecurity-Fundamentals-Series`:  
-  Foundations of Linux, Nmap, networking & more
+  Core concepts and tools to kickstart your cybersecurity journey.
 
 - `DVWA-Exploitation-Labs`:  
   Real web vulnerability exploitation with screenshots, payloads, and writeups
