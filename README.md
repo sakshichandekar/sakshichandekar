@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  `Cybersecurity-Fundamentals-Series`: Beginner-friendly repo on core concepts like Linux, networking, ports, Nmap, and the CIA triad  <br>👯 I’m looking to collaborate on hacking guides and projects for students and beginners.<br>🤝 I’m looking for help with writing better docs and learning real-world security tools.<br>🌱 I’m currently learning Linux, Nmap, Burp Suite, Metasploit, and OWASP Top 10.<br>💬 Ask me about getting started in cybersecurity and documenting your learning.<br>⚡ Fun fact: I love cats 🐱, K-dramas 🎬, and making handmade stuff 🎨!
+I’m currently working on  `Cybersecurity-Fundamentals-Series`: Beginner-friendly repo on core concepts like Linux, networking, ports, Nmap, and the CIA triad  <br> I’m looking to collaborate on hacking guides and projects for students and beginners.<br>🤝 I’m looking for help with writing better docs and learning real-world security tools.<br>🌱 I’m currently learning Linux, Nmap, Burp Suite, Metasploit, and OWASP Top 10.<br>💬 Ask me about getting started in cybersecurity and documenting your learning.<br>⚡ Fun fact: I love cats 🐱, K-dramas 🎬, and making handmade stuff 🎨!
 
 
 ## 🌐 Socials:
