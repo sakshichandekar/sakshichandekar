@@ -68,6 +68,13 @@
 ![](https://github-contributor-stats.vercel.app/api?username=sakshichandekar&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sakshichandekar&icon=5&color=13)](https://visitcount.itsvg.in)
+## 📬 Contact Me
+
+Feel free to reach out if you want to collaborate, ask questions, or just say hi!
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshichandekar24@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-chandekar-884262330)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_sakshi4747_)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
