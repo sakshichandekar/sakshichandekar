@@ -1,7 +1,6 @@
 # About Me:
 
 - I’m currently working on `Cybersecurity-Fundamentals-Series`: beginner-friendly repo on core concepts like Linux, networking, ports, Nmap, and the CIA triad.
-- I’m looking to collaborate on hacking guides and projects for beginners.
 - I’m currently learning Bash Scripting, Burp Suite, Metasploit, and OWASP Top 10.
 - Ask me how I’m learning to think like a hacker — ethically, of course.
 - Fun fact: I love cats 🐱, K-dramas 🎬, and making handmade stuff 🎨!
@@ -69,7 +68,7 @@
 ---
 ## 📬 Contact Me
 
-Feel free to reach out if you want to collaborate, ask questions, or just say hi!
+Feel free to reach out if you want ask questions, or just say hi!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshichandekar24@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-chandekar-884262330)
