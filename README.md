@@ -1,5 +1,4 @@
 # About Me:
-
 - I’m currently working on `Cybersecurity-Fundamentals-Series`: beginner-friendly repo on core concepts like Linux, networking, ports, Nmap, and the CIA triad.
 - I’m currently learning Bash Scripting, Burp Suite, Metasploit, and OWASP Top 10.
 - Ask me how I’m learning to think like a hacker — ethically, of course.
