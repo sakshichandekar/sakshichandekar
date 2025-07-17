@@ -5,7 +5,7 @@
 - Fun fact: I love cats 🐱, K-dramas 🎬, and making handmade stuff 🎨!
 ---
 
-## 💻 Tech Stack
+## Tech Stack:
 
 ### 🚀 Programming & Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -32,7 +32,7 @@
 
 ---
 
-## 🔒 Current Security Tools
+## Current Security Tools:
 
 ![Linux](https://img.shields.io/badge/Linux-%232bbc8a.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-%230075a8.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -46,7 +46,7 @@
 
 ---
 
-## 📚 Currently Building
+## Currently Building:
 
 - `Cybersecurity-Fundamentals-Series`:  
   Core concepts and tools to kickstart your cybersecurity journey.
@@ -58,16 +58,19 @@
   My personal collection of payloads for practice (coming soon!)
 
 ---
-## 📊 GitHub Stats:
+
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sakshichandekar&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sakshichandekar&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshichandekar&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
-### 🔝 Top Contributed Repo
+
+## Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=sakshichandekar&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
 ---
-## 📬 Contact Me
+
+## Contact Me:
 
 Feel free to reach out if you want ask questions, or just say hi!
 
