@@ -50,14 +50,11 @@
 
 ## Currently Building:
 
-- `Cybersecurity-Fundamentals-Series`:  
-  Core concepts and tools to kickstart your cybersecurity journey.
-
 - `DVWA-Exploitation-Labs`:  
-  Real web vulnerability exploitation with screenshots, payloads, and writeups
+  A hands-on exploitation lab covering DVWA vulnerabilities using Metasploit, Hydra, Burp and curl.
 
-- `Payload-Cheatsheet`:  
-  My personal collection of payloads for practice (coming soon!)
+- `Recon-to-Root`:  
+  A full black-box web pentesting flow from recon, scanning, and enumeration to exploitation simulating real-world attacker methodology.
 
 ---
 
