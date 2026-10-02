@@ -1,6 +1,5 @@
 ## About Me:
 - I’m currently working on `DVWA-Exploitation-Labs`: Simulating real-world attacks on DVWA using industry tools like Metasploit,curl,Burp & Hydra with step-by-step attack documentation.
-- I’m currently learning Bash Scripting, Burp Suite, Metasploit, and OWASP Top 10.
 - Ask me how I’m learning to think like a hacker — ethically, of course.
 - Fun fact: I love cats 🐱, K-dramas 🎬, and making handmade stuff 🎨!
 ---
